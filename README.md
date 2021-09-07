@@ -6,6 +6,7 @@
 ## Client code: https://github.com/Mehedi-Developer/meme-gallery-client
 
 ## Used tools & technologies: 
+    * ES6
     * Typescript
     * NodeJS
     * ExpressJS
