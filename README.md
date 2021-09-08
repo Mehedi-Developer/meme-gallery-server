@@ -1,6 +1,6 @@
 # Project name: Meme Gallery
 
-## Live linke: https://memes-gallery.web.app/
+## Live link: https://memes-gallery.web.app/
 
 ## Server url: https://meme-server-gallery.herokuapp.com
 ## Client code: https://github.com/Mehedi-Developer/meme-gallery-client
