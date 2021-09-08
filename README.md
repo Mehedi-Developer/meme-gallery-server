@@ -11,6 +11,7 @@
     * NodeJS
     * ExpressJS
     * Heroku
+    * MongoDB
 
 ## Project details:
   * Users are be able to add a link or upload a meme in your gallery
